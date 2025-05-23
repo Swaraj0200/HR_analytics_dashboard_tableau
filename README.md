@@ -52,7 +52,9 @@ Find & Replace.
 
 7th Sheet: Education Field wise Attrition (Donut Plot)
 # DASHBOARD:
-HR Dashboard 
+# HR Dashboard 
+![227755419-ff277f69-fd14-4d51-b85f-973c25a6219f](https://github.com/user-attachments/assets/3f29bec7-6f58-4b21-a6c2-a9e0e748c5f6)
+
 
 # DASHBOARD OVERVIEW:
 The HR Analytics Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
